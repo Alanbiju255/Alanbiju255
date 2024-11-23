@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">As a multifaceted developer Founder of: Virtualizerz Tech (Learning) CyberGuardians (Cyber Security) Joystick Legends Studios (Game Dev)</h3>
+<h3 align="center">As a multifaceted developer..Founder of: Virtualizerz Tech (Learning) CyberGuardians (Cyber Security) Joystick Legends Studios (Game Dev)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbiju255&label=Profile%20views&color=0e75b6&style=flat" alt="alanbiju255" /> </p>
 

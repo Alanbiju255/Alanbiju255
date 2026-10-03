@@ -1,181 +1,300 @@
 
-<h1 align="center">Hi 👋, I'm Alan</h1>
+<!-- ===================== HERO SECTION ===================== -->
 
-<h3 align="center">
-  Multifaceted Developer | Founder of 
-  <a href="https://www.instagram.com/aaronbyte_studios/">Aaronbyte Studios</a>
-</h3>
+<div align="center">
 
-<p align="center">
-  <b>Co-Founder:</b>
-  <a href="https://www.instagram.com/kutty_guru_ai/">Kutty Guru AI</a>
-  <br>
-  <b>Collaborations:</b>
-  <a href="https://www.instagram.com/arveniahome.in/">Arvenia Home</a> |
-  <a href="https://www.instagram.com/sweety_momemt/">Sweety Moment</a>
-  <br>
-  <b>IRB Holder</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0e7490,100:06b6d4&height=220&section=header&text=ALAN%20BIJU&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Founder%20%7C%20Innovator&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+AI+%26+Cybersecurity;Game+Development+%7C+App+Development;Turning+Creativity+Into+Technology" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=alanbiju255&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<a href="https://alan-protfio.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-0891b2?style=for-the-badge" />
+</a>
+<a href="mailto:alanbiju255@gmail.com">
+<img src="https://img.shields.io/badge/📩_Contact-Let's_Connect-0f766e?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding Animation" width="330" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+
+Hey! I'm **Alan Biju**, a passionate developer, technology enthusiast, and entrepreneur who loves transforming creative ideas into meaningful digital experiences.
+
+I explore multiple domains of technology, from writing code and developing applications to experimenting with artificial intelligence, cybersecurity, and interactive games.
+
+- 🚀 Founder of **Aaronbyte Studios**
+- 🤝 Co-Founder of **Kutty Guru AI**
+- 🌐 Collaborating with innovative brands and projects
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🔐 Learning Cybersecurity and digital security
+- 🎮 Interested in game development and immersive experiences
+- 📱 Building mobile and web applications
+- 💡 Passionate about innovation, creativity, and technology
+- 🏅 IRB Holder
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== LEADERSHIP ===================== -->
+
+## 🏢 Leadership & Ventures
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://www.instagram.com/aaronbyte_studios/">
+<img src="https://img.shields.io/badge/AARONBYTE_STUDIOS-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+### 🚀 Founder
+
+Building creative digital experiences and exploring innovative technology through Aaronbyte Studios.
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://www.instagram.com/kutty_guru_ai/">
+<img src="https://img.shields.io/badge/KUTTY_GURU_AI-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+### 🤝 Co-Founder
+
+Collaborating on AI-focused ideas and technology-driven initiatives.
+
+</td>
+</tr>
+</table>
+
+### 🌍 Collaborations
+
+<a href="https://www.instagram.com/arveniahome.in/">
+<img src="https://img.shields.io/badge/ARVENIA_HOME-Collaboration-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/sweety_momemt/">
+<img src="https://img.shields.io/badge/SWEETY_MOMENT-Collaboration-ec4899?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏅_IRB-Holder-0e7490?style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚡ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alanbiju255&label=Profile%20views&color=0e75b6&style=flat" alt="alanbiju255" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
 </p>
+
+### 🌐 Web Development
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alanbiju255" alt="alanbiju255" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,firebase,mysql" />
 </p>
+
+### 📱 Mobile App Development
 
 <p align="left">
-  <a href="https://twitter.com/alanbiju998063" target="blank">
-    <img src="https://img.shields.io/twitter/follow/alanbiju998063?logo=twitter&style=for-the-badge" alt="alanbiju998063" />
-  </a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
 </p>
 
-- 🌱 I’m currently learning **Flutter, AI, and Cybersecurity**
+### 🤖 AI, Machine Learning & Computer Vision
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://alan-protfio.netlify.app)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@alanbiju255)
+### 🎮 Game Development & Creative Design
 
-- 💬 Ask me about **programming, web design, game development, mobile app development, artificial intelligence, IoT, and UX/UI design.**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,figma" />
+</p>
 
-- 🎓 I'm a **BCA student at Mar Augusthinose College, Ramapuram**, with a passion for programming and technology.
+### 🔧 Tools & Platforms
 
-- 🚀 I'm a multifaceted developer interested in building innovative projects and exploring new technologies.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino,photoshop" />
+</p>
 
-- 📫 How to reach me: **alanbiju255@gmail.com**
+---
 
-- 📄 Know about my experiences: [My Portfolio](https://alan-protfolio.netlify.app)
+<!-- ===================== WHAT I DO ===================== -->
 
-### Blogs posts
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+Creating responsive websites, interactive interfaces, and modern web experiences.
+
+### 📱 Mobile Development
+
+Exploring cross-platform mobile applications and building useful digital solutions.
+
+### 🤖 Artificial Intelligence
+
+Experimenting with AI, machine learning, automation, and intelligent applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+
+Developing interactive gaming experiences and exploring game engines and 3D environments.
+
+### 🔐 Cybersecurity
+
+Learning about digital security, ethical hacking concepts, and secure technology.
+
+### 💡 IoT & Innovation
+
+Exploring hardware, microcontrollers, robotics, and connected devices.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alanbiju255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Alan's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbiju255&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=alanbiju255&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbiju255&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alanbiju255&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<!-- ===================== BLOGS ===================== -->
+
+## ✍️ Latest Articles
+
+I share my thoughts, learning experiences, and technology-related articles on Medium.
+
+<div align="center">
+
+<a href="https://medium.com/@alanbiju255">
+<img src="https://img.shields.io/badge/Read_My_Articles-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-  <a href="https://twitter.com/alanbiju998063" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanbiju998063" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/alan-biju-34b0aa296" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-biju-34b0aa296" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/alan.biju.75054" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alan.biju.75054" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/alan.biju.75054" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan.biju.75054" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@alanbiju255" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alanbiju255" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/techwithalan7554" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techwithalan7554" height="30" width="40" />
-  </a>
-</p>
+<!-- ===================== SOCIAL LINKS ===================== -->
 
-<h3 align="left">Languages and Tools:</h3>
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<h3 align="left">GitHub Stats:</h3>
+<a href="https://linkedin.com/in/alan-biju-34b0aa296">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbiju255&show_icons=true&locale=en&layout=compact" alt="alanbiju255" />
-</p>
+<a href="https://instagram.com/alan.biju.75054">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanbiju255&show_icons=true&locale=en" alt="alanbiju255" />
-</p>
+<a href="https://twitter.com/alanbiju998063">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbiju255" alt="alanbiju255" />
-</p>
+<a href="https://fb.com/alan.biju.75054">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@alanbiju255">
+<img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/c/techwithalan7554">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📧 **Email:** alanbiju255@gmail.com
+
+🌐 **Portfolio:** [alan-protfio.netlify.app](https://alan-protfio.netlify.app)
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### 💫 Innovate. Create. Inspire.
+
+*Building today what inspires tomorrow.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:050816&height=120&section=footer" width="100%" />
+
+</div>

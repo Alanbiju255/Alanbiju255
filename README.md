@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://alan-protfio.netlify.app">
+<a href="https://alan-protfio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-0891b2?style=for-the-badge" />
 </a>
 <a href="mailto:alanbiju255@gmail.com">
